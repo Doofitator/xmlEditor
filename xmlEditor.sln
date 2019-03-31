@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "xmlEditor", "xmlEditor\xmlEditor.vbproj", "{E07C9AD2-E18D-4351-8AC3-784133CAE337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07C9AD2-E18D-4351-8AC3-784133CAE337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07C9AD2-E18D-4351-8AC3-784133CAE337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07C9AD2-E18D-4351-8AC3-784133CAE337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07C9AD2-E18D-4351-8AC3-784133CAE337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1268F95-8DB2-44E4-9858-4BAD21BA33C3}
+	EndGlobalSection
+EndGlobal
